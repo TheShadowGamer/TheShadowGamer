@@ -19,4 +19,4 @@
 
 ## My Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=theshadowgamer&theme=nord&hide_border=true&count_private=true&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theshadowgamer&layout=compact&theme=nord&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=theshadowgamer&theme=nord&hide_border=true&count_private=true&show_icons=true&bg_color=22272e) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theshadowgamer&layout=compact&theme=nord&hide_border=true&bg_color=22272e)
