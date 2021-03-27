@@ -1,6 +1,6 @@
 ## My Powercord Plugins
 
-[Password System](https://github.com/TheShadowGamer/Password-System) - Adds a password systen allowing you to lock Discord, folders, and Servers.<br>
+[Password System](https://github.com/TheShadowGamer/Password-System) - Adds a password system allowing you to lock Discord, folders, and Servers.<br>
 [Safe Embed Generator](https://github.com/TheShadowGamer/Safe-Embed-Generator) - Allows you to safely generate custom embeds using links.<br>
 [Rejoin VC](https://github.com/TheShadowGamer/Rejoin-VC) - Adds a button that allows you to rejoin a voice channel without having to switch to the server.<br>
 [Disconnect From Voice](https://github.com/TheShadowGamer/Disconnect-From-Voice) - Adds a customizable keybind that disconnects you from a voice channel.<br>
